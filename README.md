@@ -6,3 +6,5 @@ Para os estudos iniciais foi utilizado o banco de dados fornecido gratuitamente 
 
 IDE utilizada: **SQL Server  Management Studio**
 
+# Tipos de JOINS
+![Diagrama de Joins SQL](https://eufacoprogramas.com/wp-content/uploads/2011/05/SQL-Joins.jpg)
