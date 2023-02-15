@@ -8,3 +8,10 @@ IDE utilizada: **SQL Server  Management Studio**
 
 # Tipos de JOINS
 ![Diagrama de Joins SQL](https://eufacoprogramas.com/wp-content/uploads/2011/05/SQL-Joins.jpg)
+
+Inner Join retorna apenas os resultados que correspondem (Existem) tanto na Tabela A como na Tabela B.
+
+Full outer join retorna um conjunto de todos os registros correspondentes da Tabela A e Tabela B quando são iguais. E além disso se não houver valores
+correspondentes, ele simplesmente irá preencher esse lado com "null".
+
+LEFT OUTER JOIN retorna um conjunto de todos os registros da Tabela A, e além disso, os registros correspondentes ( quando disponíveis) na Tabela B. Se não houver registros correspondentes ele simplesmente vai preenche com "null".
